@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prachi</h1>
+<div align="center">
+  <img src=https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWQ4MXNwaHdsd3VmaWtvMnV3ZTc4ODJucTBzemZ6MjhkNHljeXBtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT39CV47COkGPZO3HG/giphy.gif width="200">
+
+</div>
 - 👋 Hi, I’m @Prachi I'm a Web developer and designer who loves creating beautiful and functional websites. I have a passion for learning new technologies and exploring new ideas
 
 - 👀 I’m interested in  front-end web development, where I can blend creativity and technical skills to craft captivating, user-friendly digital experiences.I aim to become a skilled front-end web developer, capable of delivering high-quality, visually stunning web applications that engage and inspire users.
