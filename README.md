@@ -40,6 +40,6 @@ You can click the Preview link to take a look at your changes.
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prachijadhav14&show_icons=true&locale=en&layout=compact" alt="prachijadhav14" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prachijadhav14&show_icons=true&locale=en" alt="prachijadhav14" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prachijadhav1455&show_icons=true&locale=en&layout=compact" alt="prachijadhav1455" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prachijadhav1455&show_icons=true&locale=en&layout=compact" alt="prachijadhav1455" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prachijadhav1455&show_icons=true&locale=en" alt="prachijadhav1455" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prachijadhav1455&show_icons=true&locale=en" alt="prachijadhav1455" /></p> -->
